@@ -1,0 +1,14 @@
+C:\Users\ibrah\source\repos\201902027_Final_Odevi\bin\Debug\201902027_Final_Odevi.exe.config
+C:\Users\ibrah\source\repos\201902027_Final_Odevi\bin\Debug\201902027_Final_Odevi.exe
+C:\Users\ibrah\source\repos\201902027_Final_Odevi\bin\Debug\201902027_Final_Odevi.pdb
+C:\Users\ibrah\source\repos\201902027_Final_Odevi\obj\Debug\_201902027_Final_Odevi.Form1.resources
+C:\Users\ibrah\source\repos\201902027_Final_Odevi\obj\Debug\_201902027_Final_Odevi.Properties.Resources.resources
+C:\Users\ibrah\source\repos\201902027_Final_Odevi\obj\Debug\201902027_Final_Odevi.csproj.GenerateResource.cache
+C:\Users\ibrah\source\repos\201902027_Final_Odevi\obj\Debug\201902027_Final_Odevi.csproj.CoreCompileInputs.cache
+C:\Users\ibrah\source\repos\201902027_Final_Odevi\obj\Debug\201902027_Final_Odevi.exe
+C:\Users\ibrah\source\repos\201902027_Final_Odevi\obj\Debug\201902027_Final_Odevi.pdb
+C:\Users\ibrah\source\repos\201902027_Final_Odevi\bin\Debug\201902027_Final_Odevi.exe.manifest
+C:\Users\ibrah\source\repos\201902027_Final_Odevi\bin\Debug\201902027_Final_Odevi.application
+C:\Users\ibrah\source\repos\201902027_Final_Odevi\obj\Debug\201902027_Final_Odevi.exe.manifest
+C:\Users\ibrah\source\repos\201902027_Final_Odevi\obj\Debug\201902027_Final_Odevi.application
+C:\Users\ibrah\source\repos\201902027_Final_Odevi\obj\Debug\201902027_Final_Odevi.csproj.AssemblyReference.cache
